@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "integrate-dotnet-core-create-react-app", "integrate-dotnet-core-create-react-app.csproj", "{A0F61462-CDBC-4532-BF0B-B1DD99A3A7DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F61462-CDBC-4532-BF0B-B1DD99A3A7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F61462-CDBC-4532-BF0B-B1DD99A3A7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F61462-CDBC-4532-BF0B-B1DD99A3A7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F61462-CDBC-4532-BF0B-B1DD99A3A7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -18,3 +18,8 @@ th {
 td {
   text-align:center !important;
 }
+
+body {
+  background: grey;
+  opacity: 0.6
+}

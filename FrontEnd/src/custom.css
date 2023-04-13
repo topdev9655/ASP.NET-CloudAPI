@@ -18,3 +18,7 @@ th {
 td {
   text-align:center !important;
 }
+
+body {
+  background: grey;
+}
